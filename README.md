@@ -4,6 +4,7 @@ Implement an app named “49er Sense” on your Android mobile device, that clos
 https://play.google.com/store/apps/details?id=com.alarm.alarmmobile.android.cpi&hl=en
 ```
 In addition to the sensors and actuators shown in the CPI app, 49er Sense should be built for homes with the following additional features:
+
 a)	The home is also a renewable power generator.
 b)	Electric power consuming appliances should be part of the home and its IoT.
 c)	The App should be accessible to a Utility company which can control the appliances to optimize their schedules (subject to customer constraints) and reduce cost of operation to the consumer (assume that power cost varies with time). 
