@@ -1,5 +1,8 @@
 # IOT-Based-Home-Automation-System-with-Android-app
-Implement an app named “49er Sense” on your Android mobile device, that closely models the CPI inTouch app: https://play.google.com/store/apps/details?id=com.alarm.alarmmobile.android.cpi&hl=en
+Implement an app named “49er Sense” on your Android mobile device, that closely models the CPI inTouch app:
+```
+https://play.google.com/store/apps/details?id=com.alarm.alarmmobile.android.cpi&hl=en
+```
 In addition to the sensors and actuators shown in the CPI app, 49er Sense should be built for homes with the following additional features:
 a)	The home is also a renewable power generator.
 b)	Electric power consuming appliances should be part of the home and its IoT.
